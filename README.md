@@ -6,7 +6,7 @@ Welcome to FreshBeatsLaundry, your go-to laundry service web app! This project o
 * 🛒 Service Cart: Customers can choose their desired services and add them to the cart.
 * 📧 Email Notification: Booked services are automatically sent to the owner through Email.js for quick and efficient processing.
 ### 🚀 Project Demo
-* Check out the live demo of FreshBeatsLaundry here [Click Here](https://nks854338.github.io/LaundryService/) / [Click Here](https://visionary-froyo-c1068d.netlify.app).
+* Check out the live demo of FreshBeatsLaundry here [Click Here](https://technandani.github.io/LaundryService/) / [Click Here](https://visionary-froyo-c1068d.netlify.app).
 
 ## 🛠️ Technologies Used
 * HTML: Structure and content of the web app.
